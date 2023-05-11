@@ -1,0 +1,32 @@
+img{
+    width:100%;
+ 
+}
+
+h4{
+  margin-top: 2xp;
+}
+
+.color {
+
+  padding-bottom:5%;
+  color: white;    
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 1px solid #6C6464;
+  font-size: 1em;
+  height: 95px;
+  justify-content: center;
+  background: #050505;
+  margin-top: 3%;
+
+  
+}
+
+.color p{
+
+  margin-top: 25px;
+}
+
+
+
